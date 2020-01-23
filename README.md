@@ -1,4 +1,4 @@
-# vue-cordova-car-control
+# Vue Bluetooth
 
 ## Project setup
 ```
